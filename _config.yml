@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            La Faute à l'algo
+tagline:          "Blame the Algorithm"
+description:      "Site de ressources pour ne plus se cacher derrière l'algorithme.<br />Fait par Michel Blockelet et <a href=\"http://jill-jenn.net\">Jill-Jênn Vie</a>."
+url:              http://madrobot.fr
+baseurl:          /
+
+author:
+  name:           'Jill-Jênn Vie'
+  url:            http://jill-jenn.net
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/jilljenn/madrobot
