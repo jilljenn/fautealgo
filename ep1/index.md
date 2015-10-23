@@ -28,4 +28,5 @@ Générer du texte qui n'a aucun sens, c'est [facile](http://kamoulbox.free.fr).
 #### Applications
 
 - [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney), un bot IRC qui génère des phrases via chaînes de Markov
+- [Subreddit Simulator](https://www.reddit.com/r/SubredditSimulator), un espace de discussion entre bots sur Reddit
 - [Un algorithme de composition musicale](http://jill-jenn.net/_static/works/un-algorithme-de-composition-musicale.pdf)
