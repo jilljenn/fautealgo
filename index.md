@@ -15,6 +15,6 @@ title: Accueil
 
 - Dernier épisode : [Épisode 1 - génération procédurale](/ep1/), diffusé le 23 octobre  
 ([voir l'épisode sur Noco](http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale))
-- Prochain épisode : Épisode 2 - génération procédurale, le 6 novembre
+- Prochain épisode : Épisode 2 - intelligence artificielle, le 6 novembre
 
 Vous trouverez sur ce site des ressources sur les [auteurs](/about/) et les [épisodes](/eps/).
