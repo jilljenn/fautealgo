@@ -5,7 +5,7 @@ title: Auteurs
 
 ## Michel Blockelet
 
-Michel est un développeur freelance, fan de la chaîne Nolife.
+Michel est un développeur et théoricien, dont la 14^e fantaisie finale est d'être érudit. S'il ne passait pas autant de temps à contribuer à diverses associations, il pourrait continuer son projet secret de concurrencer Google, mais malheureusement le nom de domaine gogole.fr est déjà pris.
 
 ## Jill-Jênn Vie
 
