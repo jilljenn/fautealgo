@@ -5,12 +5,12 @@ title: Auteurs
 
 ## Michel Blockelet
 
-Michel est un développeur et théoricien, dont la 14^e fantaisie finale est d'être érudit. S'il ne passait pas autant de temps à contribuer à diverses associations, il pourrait continuer son projet secret de concurrencer Google, mais malheureusement le nom de domaine gogole.fr est déjà pris.
+Michel est un développeur et théoricien, dont la 14<sup>e</sup> fantaisie finale est d'être érudit. S'il ne passait pas autant de temps à contribuer à diverses associations, il pourrait continuer son projet secret de concurrencer Google, mais malheureusement le nom de domaine gogole.fr est déjà pris.
 
 ## Jill-Jênn Vie
 
-[Jill-Jênn](http://jill-jenn.net) est un passionné d'algorithmique, d'anime et de musique.  
-Il veut former des professeurs d'informatique pour conquérir le monde.
+[Jill-Jênn](http://jill-jenn.net) est un passionné d'[algorithmique](http://prologin.org), d'[anime](http://mangaki.fr) et de [musique](http://trioelm.com).  
+Il prépare activement des jeunes à des concours de programmation et souhaite former des professeurs d'informatique pour conquérir le monde.
 
 <hr />
 
