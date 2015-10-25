@@ -30,3 +30,11 @@ Générer du texte qui n'a aucun sens, c'est [facile](http://kamoulbox.free.fr).
 - [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney), un bot IRC qui génère des phrases via chaînes de Markov
 - [Subreddit Simulator](https://www.reddit.com/r/SubredditSimulator), un espace de discussion entre bots sur Reddit
 - [Un algorithme de composition musicale](http://jill-jenn.net/_static/works/un-algorithme-de-composition-musicale.pdf)
+
+## Réseaux de neurones récurrents (RNN)
+
+Une autre méthode pour générer du texte (ou des images, ou plein d'autres choses), provenant de l'[apprentissage statistique](https://fr.wikipedia.org/wiki/Apprentissage_automatique). Attention, c'est très technique. Fait remarquable : le texte est produit *lettre par lettre* !
+
+- [Une explication](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) des RNN avec des exemples de textes autogénérés à la manière d'une pièce de Shakespeare, d'un article Wikipédia, d'un article de recherche de géométrie algébrique, d'un code source de programme C…
+- [frigo](https://github.com/Alexis211/text_rnn), un bot IRC à base de RNN qui répond à ses interlocuteurs, écrit par [Alex Auvolat](http://adnab.me/) ; voici [quelques exemples](http://adnab.me/notes/frigo/) de conversations produites
+- [A Neural Conversational Model](http://arxiv.org/abs/1506.05869), publication par des chercheurs de Google
