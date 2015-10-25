@@ -25,11 +25,19 @@ Générer du texte qui n'a aucun sens, c'est [facile](http://kamoulbox.free.fr).
 - L'exemple introductif de [Doudou le hamster](https://fr.wikipedia.org/wiki/Chaîne_de_Markov#Exemple_:_Doudou_le_hamster), sur Wikipédia
 - [Léa](https://bitbucket.org/piedenis/lea), un package Python pour manipuler des distributions de probabilités discrètes ([slides](https://bitbucket.org/piedenis/lea/raw/5efd5fe01d059000585bfdc5d7b3693cc8942626/images/Lea_FOSDEM15.pdf))
 
-#### Applications
+### Applications
 
 - [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney), un bot IRC qui génère des phrases via chaînes de Markov
 - [Subreddit Simulator](https://www.reddit.com/r/SubredditSimulator), un espace de discussion entre bots sur Reddit
 - [Un algorithme de composition musicale](http://jill-jenn.net/_static/works/un-algorithme-de-composition-musicale.pdf)
+
+#### Génération d'articles scientifiques
+
+* [Le générateur postmoderne](http://www.elsewhere.org/pomo/)
+* [Mathgen](http://thatsmathematics.com/mathgen/) pour les maths
+* [SCIgen](http://pdos.csail.mit.edu/scigen/) pour l'informatique
+
+Un article généré par SCIgen [s'est retrouvé accepté à une conférence en 2005](http://pdos.csail.mit.edu/~strib/press.html), et [de nombreux autres ont été acceptés pour publication depuis](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763) !
 
 ## Réseaux de neurones récurrents (RNN)
 
