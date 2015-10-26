@@ -2,6 +2,7 @@
 layout: page
 title: "EP 1 : génération procédurale"
 published: true
+comments: true
 ---
 
 Émission diffusée le vendredi 23 octobre. [Voir l'épisode sur Noco.](http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale)

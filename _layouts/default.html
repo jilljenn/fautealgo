@@ -9,8 +9,14 @@
 
     <div class="content container">
       {{ content }}
-    </div>
 
+      {% if page.comments %}
+      <script data-isso="//comments.jiji.cat/madrobot/"
+        src="//comments.jiji.cat/madrobot/js/embed.min.js"></script>
+
+      <section id="isso-thread"></section>
+      {% endif %}
+    </div>
   </body>
 
 <script>

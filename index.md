@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accueil
+comments: true
 ---
 
 # La Faute à l'algo
