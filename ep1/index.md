@@ -25,8 +25,24 @@ Générer du texte qui n'a aucun sens, c'est [facile](http://kamoulbox.free.fr).
 - L'exemple introductif de [Doudou le hamster](https://fr.wikipedia.org/wiki/Chaîne_de_Markov#Exemple_:_Doudou_le_hamster), sur Wikipédia
 - [Léa](https://bitbucket.org/piedenis/lea), un package Python pour manipuler des distributions de probabilités discrètes ([slides](https://bitbucket.org/piedenis/lea/raw/5efd5fe01d059000585bfdc5d7b3693cc8942626/images/Lea_FOSDEM15.pdf))
 
-#### Applications
+### Applications
 
 - [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney), un bot IRC qui génère des phrases via chaînes de Markov
 - [Subreddit Simulator](https://www.reddit.com/r/SubredditSimulator), un espace de discussion entre bots sur Reddit
 - [Un algorithme de composition musicale](http://jill-jenn.net/_static/works/un-algorithme-de-composition-musicale.pdf)
+
+#### Génération d'articles scientifiques
+
+* [Le générateur postmoderne](http://www.elsewhere.org/pomo/)
+* [Mathgen](http://thatsmathematics.com/mathgen/) pour les maths
+* [SCIgen](http://pdos.csail.mit.edu/scigen/) pour l'informatique
+
+Un article généré par SCIgen [s'est retrouvé accepté à une conférence en 2005](http://pdos.csail.mit.edu/~strib/press.html), et [de nombreux autres ont été acceptés pour publication depuis](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763) !
+
+## Réseaux de neurones récurrents (RNN)
+
+Une autre méthode pour générer du texte (ou des images, ou plein d'autres choses), provenant de l'[apprentissage statistique](https://fr.wikipedia.org/wiki/Apprentissage_automatique). Attention, c'est très technique. Fait remarquable : le texte est produit *lettre par lettre* !
+
+- [Une explication](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) des RNN avec des exemples de textes autogénérés à la manière d'une pièce de Shakespeare, d'un article Wikipédia, d'un article de recherche de géométrie algébrique, d'un code source de programme C…
+- [frigo](https://github.com/Alexis211/text_rnn), un bot IRC à base de RNN qui répond à ses interlocuteurs, écrit par [Alex Auvolat](http://adnab.me/) ; voici [quelques exemples](http://adnab.me/notes/frigo/) de conversations produites
+- [A Neural Conversational Model](http://arxiv.org/abs/1506.05869), publication par des chercheurs de Google
