@@ -4,6 +4,20 @@ title: Auteurs
 comments: true
 ---
 
+L'émission *La Faute à l'algo* est le fruit d'une collaboration la chaîne de télévision [Nolife](http://nolife-tv.com) et Mad Robot, elle est ainsi :
+
+* proposée et écrite par Michel Blockelet et Jill-Jênn Vie,
+* produite et cadrée par Alex Pilot,
+* présentée par Frédéric Hosteing,
+* habillée graphiquement par [François Mauge](http://www.francoismauge.com)
+* et musicalement par markov.py,
+* montée par Angéla Nichon,
+* et mixée par Axel Hirczak.
+
+Elle est diffusée sur la chaîne [Nolife](http://nolife-tv.com), et disponible en rattrapage sur le catalogue Nolife de [Noco](http://noco.tv).
+
+Mad Robot tient à remercier l'équipe de Nolife et tout particulièrement Alex Pilot sans qui tout cela ne serait pas possible !
+
 ## Michel Blockelet
 
 Michel est un développeur et théoricien, dont la 14<sup>e</sup> fantaisie finale est d'être érudit. S'il ne passait pas autant de temps à contribuer à diverses associations, il pourrait continuer son projet secret de concurrencer Google, mais malheureusement le nom de domaine gogole.fr est déjà pris.

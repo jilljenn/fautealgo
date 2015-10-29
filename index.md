@@ -18,4 +18,4 @@ comments: true
 ([voir l'épisode sur Noco](http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale))
 - Prochain épisode : Épisode 2 - intelligence artificielle, le 6 novembre
 
-Vous trouverez sur ce site des ressources sur les [auteurs](/about/) et les [épisodes](/eps/).
+Vous trouverez sur ce site des ressources pour compléter les [épisodes](/eps/), ainsi que quelques informations sur les [auteurs](/about/).
