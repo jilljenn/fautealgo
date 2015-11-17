@@ -14,8 +14,8 @@ comments: true
 
 ![La Faute à l'algo](/static/fautealgo.png "La Faute à l'algo")
 
-- Dernier épisode : [Épisode 1 - génération procédurale](/ep1/), diffusé le 23 octobre  
-([voir l'épisode sur Noco](http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale))
-- Prochain épisode : Épisode 2 - intelligence artificielle, le 6 novembre
+- Dernier épisode : [Épisode 2 - intelligence artificielle](/ep2/), diffusé le 6 novembre
+([voir l'épisode sur Noco](http://noco.tv/emission/23836/nolife/la-faute-a-l-algo/02-intelligence-artificielle))
+- Prochain épisode : Épisode 3 - véhicules sans conducteur, le 20 novembre
 
 Vous trouverez sur ce site des ressources pour compléter les [épisodes](/eps/), ainsi que quelques informations sur les [auteurs](/about/).
