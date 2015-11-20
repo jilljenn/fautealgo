@@ -19,7 +19,7 @@ Un vendredi sur deux à 19 h, dans 101 % sur la chaîne [Nolife](http://www.no
 
 - [Épisode 1 - **génération procédurale**](/ep1/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ngnCE2fCvl4" frameborder="0" allowfullscreen></iframe>
+<iframe style="width: 560px; max-width: 100%" height="315" src="https://www.youtube.com/embed/ngnCE2fCvl4" frameborder="0" allowfullscreen></iframe>
 
 - [Épisode 2 - **intelligence artificielle**](/ep2/) ([voir sur Noco](http://noco.tv/emission/23836/nolife/la-faute-a-l-algo/02-intelligence-artificielle))
 - Épisode 3 - **véhicules sans conducteur** vendredi 20 novembre
