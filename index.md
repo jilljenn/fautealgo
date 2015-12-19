@@ -15,7 +15,7 @@ comments: true
 Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur la chaîne française [Nolife](http://www.nolife-tv.com) !
 Vous trouverez sur ce site des ressources pour compléter les épisodes, ainsi que quelques informations sur les [auteurs](/about/).
 
-**Prochain épisode : Le Big Data, diffusion le 22 janvier.**
+**Prochain épisode : Le Big Data, diffusion le 22 janvier 2016.**
 
 ### Précédents épisodes
 
