@@ -28,6 +28,8 @@ Vous trouverez sur ce site des ressources pour compléter les épisodes, ainsi q
 - 20/11 [Épisode 3 - **véhicules sans conducteur**](/ep3/) *([voir sur Noco](http://noco.tv/emission/24160/nolife/la-faute-a-l-algo/03-voitures-sans-conducteurs))*
 - 04/12 [Épisode 4 - **l'argent et la valeur**](/ep4/) *([voir sur Noco](http://noco.tv/emission/24469/nolife/la-faute-a-l-algo/04-l-argent-et-la-valeur))*
 - 18/12 [Épisode 5 - **le piratage des algorithmes**](/ep5/)
+- 22/01 [Épisode 6 - **le big data**](/ep6/)
+- 05/02 [Épisode 7 - **les services de conciergerie et l'ubérisation**](/ep7/), [disponible pour les non-abonnés](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation) jusqu'au 15/02.
 
 ### Coulisses
 

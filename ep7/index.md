@@ -7,9 +7,9 @@ comments: true
 
 ![EP 7 : les services de conciergerie et l'ubérisation]({{ site.baseurl }}static/preview-ep7.png "EP 7 : les services de conciergerie et l'ubérisation")
 
-Émission diffusée le vendredi 5 février 2016. [Voir l'épisode sur Noco.](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
+Émission diffusée le vendredi 5 février 2016. [Voir l'épisode sur Noco, disponible pour les non-abonnés jusqu'au 15/02.](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
 
-## À propos des services d'intermédiation algorithmique
+## À propos des services d'intermédiation
 
 - ***[Qu'est-ce que l'intermédiation algorithmique ?](http://www.societe-informatique-de-france.fr/wp-content/uploads/2015/12/1024-no7-Grumbach.pdf)***, excellent article de Stéphane Grumbach, édité dans 1024, le bulletin de la [société informatique de France](http://www.societe-informatique-de-france.fr), n° 7, novembre 2015.
 - ***[Les bouleversements politiques et économiques dans la société numérique](http://vie.jill-jenn.net/2015/04/10/bouleversements-politiques-economiques-societe-numerique/)***, une version plus courte sur le blog d'un des auteurs : 
