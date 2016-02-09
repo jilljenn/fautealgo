@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "EP 7 : les services de conciergerie et l'ubérisation"
+preview: static/preview-ep7.png
 published: true
 comments: true
 front: true

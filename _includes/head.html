@@ -3,7 +3,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <meta property="og:image" content="http://madrobot.fr/static/fautealgo.png" />
+  <meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}" />
+  <meta property="og:type" content="video.movie" />
+  <meta property="og:url" content="http://madrobot.fr{{ page.url }}" />
+  <meta property="og:image" content="{% if page.preview %}http://madrobot.fr/{{ page.preview }}{% else %}http://madrobot.fr/static/fautealgo.png{% endif %}" />
+  <meta property="og:description" content="{{ site.meta }}" />
+  <meta name="description" content="{{ site.meta }}" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@jjvie" />
+  <meta name="twitter:title" content="{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}" />
+  <meta name="twitter:description" content="{{ site.meta }}" />
+  <meta name="twitter:image" content="{% if page.preview %}http://madrobot.fr/{{ page.preview }}{% else %}http://madrobot.fr/static/fautealgo.png{% endif %}" />
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tous les épisodes
-front: true
 ---
 
 Pour voir les épisodes, plusieurs options :

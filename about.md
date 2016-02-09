@@ -2,10 +2,7 @@
 layout: page
 title: Auteurs
 comments: true
-front: true
 ---
-
-![La Faute à l'algo](/static/fautealgo.png "La Faute à l'algo")
 
 L'émission *La Faute à l'algo* est le fruit d'une collaboration entre la chaîne de télévision [Nolife](http://nolife-tv.com) et l'association Mad Robot, elle est ainsi :
 

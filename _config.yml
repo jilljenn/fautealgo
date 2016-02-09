@@ -9,7 +9,8 @@ relative_permalinks: true
 # Setup
 title:            La Faute à l'algo
 tagline:          "Blame the Algorithm"
-description:      "Site de ressources pour ne plus se cacher derrière l'algorithme.<br />Fait par Michel Blockelet et <a href=\"http://jill-jenn.net\">Jill-Jênn Vie</a>."
+description:      "Site de ressources pour ne plus se cacher derrière l'algorithme.<br />Fait par <a href=\"/about/\">Michel Blockelet</a> et <a href=\"/about/\">Jill-Jênn Vie</a>."
+meta:             "2098. Les Algorithmes ont pris le contrôle de notre société. Mais comment en sommes-nous arrivés là ? Voici quelques vidéos du futur pour prendre conscience du rôle grandissant des algorithmes dans nos vies, à l'origine de notre déchéance."
 url:              http://madrobot.fr
 baseurl:          /
 

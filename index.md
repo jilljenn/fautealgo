@@ -9,7 +9,7 @@ comments: true
 ![La Faute à l'algo]({{ site.baseurl }}static/fautealgo.png "La Faute à l'algo")
 
 <div class="message">
-2098. Les Algorithmes ont pris le contrôle de notre société. Mais comment en est-on arrivés là ? Voici quelques vidéos du futur pour prendre conscience du rôle grandissant des algorithmes dans nos vies, à l'origine de notre déchéance.
+{{ site.meta }}
 </div>
 
 Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur la chaîne française [Nolife](http://www.nolife-tv.com) !
