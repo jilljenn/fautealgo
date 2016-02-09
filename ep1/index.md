@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: episode
 title: "EP 1 : génération procédurale"
+date: vendredi 23 octobre 2015
+preview: static/preview-ep1.png
+noco: http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale
 published: true
 comments: true
+front: true
 ---
-
-![EP 1 : génération procédurale]({{ site.baseurl }}static/preview-ep1.png "EP 1 : génération procédurale")
-
-Émission diffusée le vendredi 23 octobre 2015. [Voir l'épisode sur Noco.](http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale)
 
 ## T-shirts « Keep Calm » générés algorithmiquement
 

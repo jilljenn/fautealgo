@@ -3,6 +3,7 @@ layout: page
 title: "EP 7 : les services de conciergerie et l'ubérisation"
 published: true
 comments: true
+front: true
 ---
 
 [![EP 7 : les services de conciergerie et l'ubérisation]({{ site.baseurl }}static/preview-ep7.png "EP 7 : les services de conciergerie et l'ubérisation")](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)

@@ -2,6 +2,7 @@
 layout: page
 title: Auteurs
 comments: true
+front: true
 ---
 
 ![La Faute à l'algo](/static/fautealgo.png "La Faute à l'algo")

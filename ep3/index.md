@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: episode
 title: "EP 3 : voitures sans conducteur"
+date: vendredi 20 novembre 2015
+preview: static/preview-ep3.png
+noco: http://noco.tv/emission/24160/nolife/la-faute-a-l-algo/03-voitures-sans-conducteurs
 published: true
 comments: true
+front: true
 ---
-
-![EP 3 : voitures sans conducteur]({{ site.baseurl }}static/preview-ep3.png "EP 3 : voitures sans conducteur")
-
-Émission diffusée le vendredi 20 novembre 2015. [Voir l'épisode sur Noco.](http://noco.tv/emission/24160/nolife/la-faute-a-l-algo/03-voitures-sans-conducteurs)
 
 ## Erreurs dans l'exploration spatiale
 
