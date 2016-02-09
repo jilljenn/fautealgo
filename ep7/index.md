@@ -5,9 +5,10 @@ published: true
 comments: true
 ---
 
-![EP 7 : les services de conciergerie et l'ubérisation]({{ site.baseurl }}static/preview-ep7.png "EP 7 : les services de conciergerie et l'ubérisation")
+[![EP 7 : les services de conciergerie et l'ubérisation]({{ site.baseurl }}static/preview-ep7.png "EP 7 : les services de conciergerie et l'ubérisation")](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
 
-Émission diffusée le vendredi 5 février 2016. [Voir l'épisode sur Noco, disponible pour les non-abonnés jusqu'au 15/02.](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
+Émission diffusée le vendredi 5 février 2016.  
+[Voir l'épisode sur Noco, disponible pour les non-abonnés jusqu'au 15/02.](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
 
 ## À propos des services d'intermédiation
 
