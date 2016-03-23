@@ -15,7 +15,7 @@ comments: true
 Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur la chaîne française [Nolife](http://www.nolife-tv.com) !
 Vous trouverez sur ce site des ressources pour compléter les épisodes, ainsi que quelques informations sur les [auteurs](/about/).
 
-**Prochain épisode : Le Big Data, diffusion le 22 janvier 2016.**
+## Prochain épisode : [La géolocalisation et la navigation](/ep11/), le 01/04.
 
 ### Précédents épisodes
 
@@ -29,7 +29,11 @@ Vous trouverez sur ce site des ressources pour compléter les épisodes, ainsi q
 - 04/12 [Épisode 4 - **l'argent et la valeur**](/ep4/) *([voir sur Noco](http://noco.tv/emission/24469/nolife/la-faute-a-l-algo/04-l-argent-et-la-valeur))*
 - 18/12 [Épisode 5 - **le piratage des algorithmes**](/ep5/)
 - 22/01 [Épisode 6 - **le big data**](/ep6/)
-- 05/02 [Épisode 7 - **les services de conciergerie et l'ubérisation**](/ep7/), [disponible pour les non-abonnés](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation) jusqu'au 15/02.
+- 05/02 [Épisode 7 - **les services de conciergerie et l'ubérisation**](/ep7/)
+- 19/02 [Épisode 8 - **l'évolution du travail**](/ep8/)
+- 04/03 [Épisode 9 - **la surveillance prédictive**](/ep9/)
+- 18/03 [Épisode 10 - **le deep learning**](/ep10/)
+- 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 
 ### Coulisses
 

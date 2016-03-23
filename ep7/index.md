@@ -1,16 +1,12 @@
 ---
-layout: page
+layout: episode
 title: "EP 7 : les services de conciergerie et l'ubérisation"
+date: vendredi 5 février 2016
 preview: static/preview-ep7.png
+noco: http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation
 published: true
 comments: true
-front: true
 ---
-
-[![EP 7 : les services de conciergerie et l'ubérisation]({{ site.baseurl }}static/preview-ep7.png "EP 7 : les services de conciergerie et l'ubérisation")](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
-
-Émission diffusée le vendredi 5 février 2016.  
-[Voir l'épisode sur Noco, disponible pour les non-abonnés jusqu'au 15/02.](http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation)
 
 ## À propos des services d'intermédiation
 
@@ -35,3 +31,4 @@ Pas encore disponible en Europe, mais :
 
 - [***Here’s What “M,” Facebook Messenger’s Virtual Assistant, Looks Like***](http://www.buzzfeed.com/alexkantrowitz/heres-what-m-facebook-messengers-virtual-assistant-looks-lik), les retours (plutôt élogieux) de quelqu'un qui l'essaie. Nous ne savons pas si c'est une démo ou un véritable test.
 - Pour en savoir plus : [*Hands-on with Facebook M: the virtual assistant with a (real) human touch*](http://www.theverge.com/2015/10/26/9605526/facebook-m-hands-on-personal-assistant-ai).
+- [**Facebook M — The Anti-Turing Test**](https://blog.arik.io/facebook-m-the-anti-turing-test-74c5af19987c#.uogkx6myk) : des petits malins qui essaient de faire échouer M de Messenger, et qui ont remarqué que lorsque l'algorithme n'arrivait pas à répondre, il passait le relais à un humain.

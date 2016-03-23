@@ -25,6 +25,9 @@ Pour voir les épisodes, plusieurs options :
 - 18/12 [Épisode 5 - **le piratage des algorithmes**](/ep5/)
 - 22/01 [Épisode 6 - **le big data**](/ep6/)
 - 05/02 [Épisode 7 - **les services de conciergerie et l'ubérisation**](/ep7/)
-- 19/02 Épisode 8 - **la surveillance prédictive**
+- 19/02 [Épisode 8 - **l'évolution du travail**](/ep8/)
+- 04/03 [Épisode 9 - **la surveillance prédictive**](/ep9/)
+- 18/03 [Épisode 10 - **le deep learning**](/ep10/)
+- 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 
 - 26/11 Debug Mode - La Faute à l'algo *([voir sur Noco](http://noco.tv/emission/24313/nolife/debug-mode/171-la-faute-a-l-algo))*
