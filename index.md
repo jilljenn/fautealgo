@@ -6,16 +6,17 @@ comments: true
 
 # La Faute à l'algo
 
-![La Faute à l'algo]({{ site.baseurl }}static/fautealgo.png "La Faute à l'algo")
+<!-- ![La Faute à l'algo]({{ site.baseurl }}static/fautealgo.png "La Faute à l'algo") -->
 
 <div class="message">
 {{ site.meta }}
 </div>
 
-Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur la chaîne française [Nolife](http://www.nolife-tv.com) !
-Vous trouverez sur ce site des ressources pour compléter les épisodes, ainsi que quelques informations sur les [auteurs](/about/).
+Émission diffusée **un vendredi sur deux** à 19 h, dans 101 % sur la chaîne [Nolife](http://www.nolife-tv.com) !  
+[En savoir plus sur les auteurs.](/about/)
 
-## Prochain épisode : [La géolocalisation et la navigation](/ep11/), le 01/04.
+<h2>Prochain épisode : <a href="/ep12/">La transparence des algorithmes</a>,<br />
+vendredi 15 avril à 19 h sur Nolife.</h2>
 
 ### Précédents épisodes
 
@@ -35,6 +36,12 @@ Vous trouverez sur ce site des ressources pour compléter les épisodes, ainsi q
 - 18/03 [Épisode 10 - **le deep learning**](/ep10/)
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 
-### Coulisses
+### À venir
+
+- 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
+- 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
+- 13/05 Épisode 14 - ???
+
+### Coulisses
 
 Nolife a consacré un épisode de Debug Mode à la création de l'émission, que vous pouvez [regarder sur Noco](http://noco.tv/emission/24313/nolife/debug-mode/171-la-faute-a-l-algo).

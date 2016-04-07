@@ -6,7 +6,6 @@ preview: static/preview-ep3.png
 noco: http://noco.tv/emission/24160/nolife/la-faute-a-l-algo/03-voitures-sans-conducteurs
 published: true
 comments: true
-front: true
 ---
 
 ## Erreurs dans l'exploration spatiale

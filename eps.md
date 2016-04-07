@@ -12,7 +12,7 @@ Pour voir les épisodes, plusieurs options :
 - [abonnez-vous à Noco](http://noco.tv/abonnement/) sans engagement pour **5 € par mois** ;
 - débloquez la lecture illimitée de [chaque épisode](http://noco.tv/emission/23836/nolife/la-faute-a-l-algo/02-intelligence-artificielle) pour **0,49 €**.
 
-## Tous les épisodes
+## Précédents épisodes
 
 - 09/10 Prologue *([voir sur Noco](http://noco.tv/emission/23065/nolife/la-faute-a-l-algo/prologue))*
 - 23/10 [Épisode 1 - **génération procédurale**](/ep1/)
@@ -29,5 +29,15 @@ Pour voir les épisodes, plusieurs options :
 - 04/03 [Épisode 9 - **la surveillance prédictive**](/ep9/)
 - 18/03 [Épisode 10 - **le deep learning**](/ep10/)
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
+
+## À venir
+
+- 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
+- 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
+- 13/05 Épisode 14 - ???
+
+### Coulisses
+
+Nolife a consacré un épisode de Debug Mode à la création de l'émission, que vous pouvez [regarder sur Noco](http://noco.tv/emission/24313/nolife/debug-mode/171-la-faute-a-l-algo).
 
 - 26/11 Debug Mode - La Faute à l'algo *([voir sur Noco](http://noco.tv/emission/24313/nolife/debug-mode/171-la-faute-a-l-algo))*

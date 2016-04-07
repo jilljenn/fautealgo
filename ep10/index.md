@@ -6,7 +6,6 @@ preview: static/preview-ep10.png
 noco: http://noco.tv/emission/31668/nolife/la-faute-a-l-algo/10-le-deep-learning
 published: true
 comments: true
-front: true
 ---
 
 ## Pour en savoir plus
