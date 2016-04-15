@@ -10,7 +10,7 @@ front: true
 
 # L'algorithme du calculateur des impôts
 
-La Direction générale des Finances publiques a ouvert 1er avril 2016 le code de son calculateur d'impôts. Un hackathon a été organisé à cette occasion à Mozilla Paris, dont [voici les projets](https://forum.openfisca.fr/c/calculette-impots/projets-du-hackathon-codeimpot).
+La Direction générale des Finances publiques a ouvert 1er avril 2016 le code de son calculateur d'impôts. Un hackathon a été organisé à cette occasion à Mozilla Paris, dont [voici les projets](https://forum.openfisca.fr/t/projets-du-hackathon-codeimpot/40).
 
 # L'algorithme d'admission post-bac
 
