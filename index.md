@@ -15,8 +15,8 @@ comments: true
 Émission diffusée **un vendredi sur deux** à 19 h, dans 101 % sur la chaîne [Nolife](http://www.nolife-tv.com) !  
 [En savoir plus sur les auteurs.](/about/)
 
-<h2>Prochain épisode : <a href="/ep13/">La transparence des données</a>,<br />
-vendredi 29 avril à 19 h sur Nolife.</h2>
+<h2>Prochain épisode : <a href="/ep14/">L'éducation et la connaissance</a>,<br />
+vendredi 13 mai à 19 h sur Nolife.</h2>
 
 ### Précédents épisodes
 
@@ -36,11 +36,12 @@ vendredi 29 avril à 19 h sur Nolife.</h2>
 - 18/03 [Épisode 10 - **le deep learning**](/ep10/)
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 - 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
+- 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
 
 ### À venir
 
-- 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
-- 13/05 Épisode 14 - ???
+- 13/05 [Épisode 14 - **l'éducation et la connaissance**](/ep14/)
+- 27/05 Épisode 15 - ???
 
 ### Coulisses
 

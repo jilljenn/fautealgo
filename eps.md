@@ -30,11 +30,12 @@ Pour voir les épisodes, plusieurs options :
 - 18/03 [Épisode 10 - **le deep learning**](/ep10/)
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 - 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
+- 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
 
 ## À venir
 
-- 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
-- 13/05 Épisode 14 - ???
+- 13/05 [Épisode 14 - **l'éducation et la connaissance**](/ep14/)
+- 27/05 Épisode 15 - ???
 
 ### Coulisses
 
