@@ -8,7 +8,14 @@ layout: default
   {{ content }}
 </div>
 
-<div class="related">
+<div class="share-page">
+    Partager sur &rarr;
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }} {{ site.title }}&amp;url={{ site.url }}{{ page.url }}&amp;via={{ author.twitter }}&amp;related={{ author.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a> /
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a> /
+    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+</div>
+
+<!-- <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
@@ -22,4 +29,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-</div>
+</div> -->

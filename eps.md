@@ -29,10 +29,10 @@ Pour voir les épisodes, plusieurs options :
 - 04/03 [Épisode 9 - **la surveillance prédictive**](/ep9/)
 - 18/03 [Épisode 10 - **le deep learning**](/ep10/)
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
+- 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
 
 ## À venir
 
-- 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
 - 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
 - 13/05 Épisode 14 - ???
 

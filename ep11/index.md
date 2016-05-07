@@ -6,7 +6,5 @@ date: vendredi 1er avril 2016
 noco: http://noco.tv/emission/31926/nolife/la-faute-a-l-algo/11-la-geolocalisation-et-la-navigation
 published: true
 comments: true
-front: true
 ---
 
-L'épisode est disponible gratuitement jusqu'au 11 avril.
