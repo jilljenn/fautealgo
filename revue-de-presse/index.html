@@ -1,0 +1,46 @@
+---
+layout: default
+title: Revue de presse
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% assign author = site.authors[post.author] %}
+    <span class="post-author">{{ author.name }}</span>
+
+    {{ post.content }}
+
+    <div class="share-page">
+      Partager sur &rarr;
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }} - {{ site.title }}&amp;url={{ site.url }}{{ page.url }}&amp;via={{ author.twitter }}&amp;related={{ author.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a> /
+      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a> /
+      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}posts/page{{paginator.next_page}}">Plus ancien</a>
+  {% else %}
+    <span class="pagination-item older">Plus ancien</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}posts/">Plus récent</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}posts/page{{paginator.previous_page}}">Plus récent</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Plus récent</span>
+  {% endif %}
+</div>
