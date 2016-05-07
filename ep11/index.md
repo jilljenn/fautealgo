@@ -8,3 +8,6 @@ published: true
 comments: true
 ---
 
+# L'effet du GPS sur notre représentation dans l'espace
+
+- ***Pinpoint: How GPS Is Changing Technology, Culture, And Our Minds*** est un livre sur le sujet dont un résumé est disponible sur [Ars Technica](http://arstechnica.com/cars/2016/05/death-by-gps/).
