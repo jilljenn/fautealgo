@@ -31,11 +31,15 @@ layout: page
 
 {% if page.noco %}
 <p>Émission diffusée le {{ page.date }}.<br />
-<a href="{{ page.noco }}" target="_blank"><strong>Voir cet épisode sur Noco.</strong></a><br />
+    {% if page.free_until %}
+        <h2>Voir l'épisode <a href="{{ page.noco }}" target="_blank">gratuitement sur Noco</a> jusqu'au {{ page.free_until }}</h2>
+    {% else %}
+        <a href="{{ page.noco }}" target="_blank"><strong>Voir cet épisode sur Noco.</strong></a><br />
+    {% endif %}
 {% else %}
 <p>Cet épisode sera diffusé le <strong>{{ page.date }}</strong>.<br />
 {% endif %}
-Voir <a href="http://youtu.be/ngnCE2fCvl4" target="_blank">l'épisode 1 gratuitement sur YouTube</a> ou <a href="/eps">les autres épisodes</a> sur <a href="http://noco.tv/famille/346/nolife/la-faute-a-l-algo" target="_blank">Noco</a>.</p>
+Voir <a href="http://youtu.be/ngnCE2fCvl4" target="_blank">l'épisode 1 sur YouTube</a> ou <a href="/eps">les autres épisodes</a> sur <a href="http://noco.tv/famille/346/nolife/la-faute-a-l-algo" target="_blank">Noco</a>.</p>
 
 {% endif %}
 
