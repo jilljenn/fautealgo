@@ -7,8 +7,6 @@ preview: static/preview-ep13.png
 noco: http://noco.tv/emission/32322/nolife/la-faute-a-l-algo/13-la-transparence-des-donnees
 published: true
 comments: true
-front: true
-free_until: 29 mai
 ---
 
 # Etalab : l'organisme qui ouvre les données publiques françaises

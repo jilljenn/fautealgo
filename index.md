@@ -12,13 +12,14 @@ comments: true
 {{ site.meta }}
 </div>
 
-Émission diffusée **un vendredi sur deux** à 19 h, dans 101 % sur la chaîne [Nolife](http://www.nolife-tv.com) !  
-[En savoir plus sur les auteurs.](/about/)
+Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur [Nolife](http://www.nolife-tv.com) !
 
-<h2>Prochain épisode : <a href="/ep14/">L'éducation et la connaissance</a>,<br />
-vendredi 13 mai à 19 h sur Nolife.</h2>
+### Nous serons à Japan Expo 2016 !
 
-### Précédents épisodes
+[Retrouvez-nous](/about/) sur le stand Nolife jeudi, samedi et dimanche.  
+N'hésitez pas à venir dire bonjour :)
+
+### Tous les épisodes
 
 - 09/10 Prologue *([voir sur Noco](http://noco.tv/emission/23065/nolife/la-faute-a-l-algo/prologue))*
 - 23/10 [Épisode 1 - **génération procédurale**](/ep1/)
@@ -37,11 +38,10 @@ vendredi 13 mai à 19 h sur Nolife.</h2>
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 - 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
 - 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
-
-### À venir
-
 - 13/05 [Épisode 14 - **l'éducation et la connaissance**](/ep14/)
-- 27/05 Épisode 15 - ???
+- 27/05 [Épisode 15 - **la discrimination par les algorithmes**](/ep15/)
+- 10/06 [Épisode 16 - **la politique et le fact-checking**](/ep16/)
+- 24/06 [Épisode 17 - **les monnaies virtuelles**](/ep17/)
 
 ### Coulisses
 

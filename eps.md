@@ -31,11 +31,10 @@ Pour voir les épisodes, plusieurs options :
 - 01/04 [Épisode 11 - **la géolocalisation et la navigation**](/ep11/)
 - 15/04 [Épisode 12 - **la transparence des algorithmes**](/ep12/)
 - 29/04 [Épisode 13 - **la transparence des données**](/ep13/)
-
-## À venir
-
 - 13/05 [Épisode 14 - **l'éducation et la connaissance**](/ep14/)
-- 27/05 Épisode 15 - ???
+- 27/05 [Épisode 15 - **la discrimination par les algorithmes**](/ep15/)
+- 10/06 [Épisode 16 - **la politique et le fact-checking**](/ep16/)
+- 24/06 [Épisode 17 - **les monnaies virtuelles**](/ep17/)
 
 ### Coulisses
 
