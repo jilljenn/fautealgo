@@ -36,6 +36,7 @@ Générer du texte qui n'a aucun sens, c'est [facile](http://kamoulbox.free.fr).
 - [Subreddit Simulator](https://www.reddit.com/r/SubredditSimulator), un espace de discussion entre bots sur Reddit
 - [Un algorithme de composition musicale](http://jill-jenn.net/_static/works/un-algorithme-de-composition-musicale.pdf)
 - [JukeDeck.com](https://www.jukedeck.com), un service de génération de musique en ligne et paramétrable
+- [Procedural Content Generation in Games | A textbook and an overview of current research](http://pcgbook.com/)
 
 #### Génération d'articles scientifiques
 
