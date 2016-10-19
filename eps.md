@@ -35,6 +35,12 @@ Pour voir les épisodes, plusieurs options :
 - 27/05 [Épisode 15 - **la discrimination par les algorithmes**](/ep15/)
 - 10/06 [Épisode 16 - **la politique et le fact-checking**](/ep16/)
 - 24/06 [Épisode 17 - **les monnaies virtuelles**](/ep17/)
+- 30/09 [Épisode 18 - **la réalité augmentée**](/ep18/)
+- 14/10 [Épisode 19 - **la publicité et la culture de l'attention**](/ep19/)
+
+### À venir
+
+- 28/10 [Épisode 20 - **la robotique**](/ep20/)
 
 ### Coulisses
 

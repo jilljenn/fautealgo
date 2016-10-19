@@ -14,10 +14,9 @@ comments: true
 
 Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur [Nolife](http://www.nolife-tv.com) !
 
-### Nous serons à Japan Expo 2016 !
+### Prochain épisode sur la robotique !
 
-[Retrouvez-nous](/about/) sur le stand Nolife jeudi, samedi et dimanche.  
-N'hésitez pas à venir dire bonjour :)
+[Vendredi 28 à 19 h, sur Nolife](/eps/).
 
 ### Tous les épisodes
 
@@ -42,6 +41,12 @@ N'hésitez pas à venir dire bonjour :)
 - 27/05 [Épisode 15 - **la discrimination par les algorithmes**](/ep15/)
 - 10/06 [Épisode 16 - **la politique et le fact-checking**](/ep16/)
 - 24/06 [Épisode 17 - **les monnaies virtuelles**](/ep17/)
+- 30/09 [Épisode 18 - **la réalité augmentée**](/ep18/)
+- 14/10 [Épisode 19 - **la publicité et la culture de l'attention**](/ep19/)
+
+### À venir
+
+- 28/10 [Épisode 20 - **la robotique**](/ep20/)
 
 ### Coulisses
 
