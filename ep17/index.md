@@ -5,7 +5,6 @@ date: vendredi 24 juin 2016
 noco: http://noco.tv/emission/33502/nolife/la-faute-a-l-algo/17-les-monnaies-virtuelles
 published: true
 comments: true
-front: true
 ---
 # Le Bitcoin
 

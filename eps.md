@@ -3,14 +3,23 @@ layout: page
 title: Tous les épisodes
 ---
 
-Pour voir les épisodes, plusieurs options :
+Pour voir les épisodes, trois possibilités :
+
+### 1. À la télé, sur [Nolife](http://nolife-tv.com/)
+
+Le **vendredi à 19 h**, sur les chaînes suivantes :
 
 ![Voir Nolife](/static/nolife.jpg "Liste des chaînes Nolife")
 
-- regardez-les à la télé [sur Nolife](http://nolife-tv.com/) à 19 h, un vendredi sur deux ;
-- suivez-les gratuitement [sur Twitch](http://twitch.tv/nolife) lors de leur [diffusion](http://nolife-tv.com/grille-twitch) ;
-- [abonnez-vous à Noco](http://noco.tv/abonnement/) sans engagement pour **5 € par mois** ;
-- débloquez la lecture illimitée de [chaque épisode](http://noco.tv/emission/23836/nolife/la-faute-a-l-algo/02-intelligence-artificielle) pour **0,49 €**.
+### 2. Sur Internet, via [Twitch](http://twitch.tv/nolife)
+
+[L'épisode de ce soir](/ep21/) est actuellement [**prévu pour 19 h 06**](http://twitch.tv/nolife).  
+Mais ça bouge, vérifiez sur [la grille des programmes](http://nolife-tv.com/grille-twitch) !
+
+### 3. En streaming, via [Noco](http://noco.tv/)
+
+[Abonnez-vous à Noco](http://noco.tv/abonnement/) sans engagement pour **5 € par mois**.  
+Vous pouvez aussi débloquer chaque épisode pour 0,49 €.
 
 ## Précédents épisodes
 
@@ -37,10 +46,11 @@ Pour voir les épisodes, plusieurs options :
 - 24/06 [Épisode 17 - **les monnaies virtuelles**](/ep17/)
 - 30/09 [Épisode 18 - **la réalité augmentée**](/ep18/)
 - 14/10 [Épisode 19 - **la publicité et la culture de l'attention**](/ep19/)
+- 28/10 [Épisode 20 - **la robotique**](/ep20/)
 
 ### À venir
 
-- 28/10 [Épisode 20 - **la robotique**](/ep20/)
+- 11/11 [Épisode 21 - **la sauvegarde numérique**](/ep21/)
 
 ### Coulisses
 

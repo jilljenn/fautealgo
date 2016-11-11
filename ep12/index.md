@@ -7,7 +7,6 @@ preview: static/preview-ep12.png
 noco: http://noco.tv/emission/32076/nolife/la-faute-a-l-algo/12-la-transparence-des-algorithmes
 published: true
 comments: true
-front: true
 ---
 
 # L'algorithme du calculateur des impôts

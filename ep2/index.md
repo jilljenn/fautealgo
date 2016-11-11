@@ -1,11 +1,13 @@
 ---
 layout: episode
 title: "EP 2 : intelligence artificielle"
+short: "EP 02 : intelligence artificielle"
 date: vendredi 6 novembre 2015
 preview: static/preview-ep2.png
 noco: http://noco.tv/emission/23836/nolife/la-faute-a-l-algo/02-intelligence-artificielle
 published: true
 comments: true
+front: true
 ---
 
 ## Déplacement des robots
