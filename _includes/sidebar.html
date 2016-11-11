@@ -10,7 +10,8 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Accueil</a>
       <a class="sidebar-nav-item{% if page.url == "/revue-de-presse/" %} active{% endif %}" href="/revue-de-presse/">Revue de presse</a>
-      <a class="sidebar-nav-item{% if page.url == "/eps/" %} active{% endif %}" href="/eps/">Tous les épisodes</a>
+      <a class="sidebar-nav-item" href="https://fb.me/fautealgo">Suivez-nous sur Facebook</a>
+      <a class="sidebar-nav-item" href="http://forum.nolife-tv.com/showthread.php?t=27831"><em>La Faute à l'algo</em> sur Nolife</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -35,10 +36,11 @@
       </small>
 
       <iframe src="https://ghbtns.com/github-btn.html?user=jilljenn&repo=madrobot&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" style="float: right"></iframe>
-      <a href="http://noco.tv/famille/346/nolife/la-faute-a-l-algo" target="_blank"><img src="/static/noco.png" /></a>
+      <a href="http://noco.tv/emissions/6-1-346/nolife/la-faute-a-l-algo/dernieres-emissions" target="_blank"><img src="/static/noco.png" /></a>
 
     </nav>
 
-    <p>&copy; Mad Robot &amp; Nolife, {{ site.time | date: '%Y' }}</p>
+    <p style="margin-bottom: 0">&copy; Mad Robot &amp; Nolife, {{ site.time | date: '%Y' }}</p>
+    <p><a href="/about/">Michel Blockelet, Jill-Jênn Vie</a></p>
   </div>
 </div>
