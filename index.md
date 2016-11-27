@@ -14,9 +14,7 @@ comments: true
 
 Émission diffusée un vendredi sur deux à 19 h, dans 101 % sur [Nolife](http://www.nolife-tv.com) !
 
-### Prochain épisode sur la sauvegarde numérique !
-
-[Vendredi 11 novembre à 19 h, sur Nolife](/eps/).
+### Dernier épisode le 9 décembre sur [la faute à l'algo](/ep23/) !
 
 ### Tous les épisodes
 
@@ -44,10 +42,12 @@ comments: true
 - 30/09 [Épisode 18 - **la réalité augmentée**](/ep18/)
 - 14/10 [Épisode 19 - **la publicité et la culture de l'attention**](/ep19/)
 - 28/10 [Épisode 20 - **la robotique**](/ep20/)
+- 11/11 [Épisode 21 - **la sauvegarde numérique**](/ep21/)
+- 25/11 [Épisode 22 - **la ville intelligente**](/ep22/)
 
 ### À venir
 
-- 11/11 [Épisode 21 - **la sauvegarde numérique**](/ep21/)
+- 09/12 [Dernier épisode - **la faute à l'algo**](/ep23/)
 
 ### Coulisses
 

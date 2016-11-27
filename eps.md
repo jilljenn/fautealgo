@@ -47,10 +47,12 @@ Vous pouvez aussi débloquer chaque épisode pour 0,49 €.
 - 30/09 [Épisode 18 - **la réalité augmentée**](/ep18/)
 - 14/10 [Épisode 19 - **la publicité et la culture de l'attention**](/ep19/)
 - 28/10 [Épisode 20 - **la robotique**](/ep20/)
+- 11/11 [Épisode 21 - **la sauvegarde numérique**](/ep21/)
+- 25/11 [Épisode 22 - **la ville intelligente**](/ep22/)
 
 ### À venir
 
-- 11/11 [Épisode 21 - **la sauvegarde numérique**](/ep21/)
+- 09/12 [Dernier épisode - **la faute à l'algo**](/ep23/)
 
 ### Coulisses
 
