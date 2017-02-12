@@ -24,3 +24,4 @@ comments: true
 - [Google self-driving car project](https://www.google.com/selfdrivingcar/)
 - Dilemme du Tramway : [Why self-driving cars must be programmed to kill](http://www.technologyreview.com/view/542626/why-self-driving-cars-must-be-programmed-to-kill/)
 - [La voiture sans volant donne le vertige aux assureurs](http://www.lemonde.fr/economie/article/2015/09/14/la-voiture-sans-volant-donne-le-vertige-aux-assureurs_4756023_3234.html)
+- [Udacity propose à des étudiants de participer à l'écriture du code de la première voiture autonome open source](https://www.udacity.com/self-driving-car)
