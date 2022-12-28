@@ -2,8 +2,44 @@
 layout: page
 ---
 
-{% if page.noco %}
-    <a href="{{ page.noco }}" target="_blank">
+{% assign ep_num = page.url | replace: '/', '' | replace: 'ep', '' | plus: 0 %}
+{% if ep_num > 1 %}
+    {% assign previous_ep = ep_num | minus: 1 %}
+    {% assign previous_url = '/ep' | append: previous_ep | append: '/' %}
+{% endif %}
+{% if ep_num < 23 %}
+    {% assign next_ep = ep_num | plus: 1 %}
+    {% assign next_url = '/ep' | append: next_ep | append: '/' %}
+{% endif %}
+
+{% for item in site.pages %}
+    {% if item.url == previous_url %}
+        {% assign previous_title = item.title %}
+    {% elsif item.url == next_url %}
+        {% assign next_title = item.title %}
+    {% endif %}
+{% endfor %}
+
+<div id="post-nav" class="clearfix nav-slide">
+    <div class="work">
+        {% if previous_url %}
+        <a class="prev" href="{{ previous_url }}">
+            <span class="slide-wrap">← {{ previous_title }}</span>
+        </a>
+        {% endif %}
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        {% if next_url %}
+        <a class="next" style="float: right" href="{{ next_url }}">
+            <span class="slide-wrap">{{ next_title }} →</span>
+        </a>
+        {% endif %}
+    </div>
+</div>
+
+<p align="center"><a href="/eps">Tous les épisodes</a></p>
+
+{% if page.vimeo %}
+    <a href="{{ page.vimeo }}" target="_blank">
 {% else %}
     <a href="{{ page.link }}">
 {% endif %}
@@ -29,17 +65,12 @@ layout: page
 
 {% else %}
 
-{% if page.noco %}
+{% if page.vimeo %}
 <p>Émission diffusée le {{ page.date }}.<br />
-    {% if page.free_until %}
-        <h2>Voir l'épisode <a href="{{ page.noco }}" target="_blank">gratuitement sur Noco</a> jusqu'au {{ page.free_until }}</h2>
-    {% else %}
-        <a href="{{ page.noco }}" target="_blank"><strong>Voir cet épisode sur Noco.</strong></a><br />
-    {% endif %}
+<a href="{{ page.vimeo }}" target="_blank"><strong>Voir cet épisode sur Vimeo.</strong></a><br />
 {% else %}
-<p>Cet épisode sera diffusé le <strong>{{ page.date }}</strong>.<br />
+Cet épisode a été diffusé le <strong>{{ page.date }}</strong> et sera bientôt rediffusé sur <a href="{{ site.atnl }}" target="_blank">la page Vimeo de l'ATNL</a>, merci à eux.
 {% endif %}
-Voir <a href="http://youtu.be/ngnCE2fCvl4" target="_blank">l'épisode 1 sur YouTube</a> ou <a href="/eps">les autres épisodes</a> sur <a href="http://noco.tv/emissions/6-1-346/nolife/la-faute-a-l-algo/dernieres-emissions" target="_blank">Noco</a>.</p>
 
 {% endif %}
 

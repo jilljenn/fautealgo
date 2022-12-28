@@ -3,7 +3,6 @@ layout: episode
 title: "EP 7 : les services de conciergerie et l'ubérisation"
 date: vendredi 5 février 2016
 preview: static/preview-ep7.png
-noco: http://noco.tv/emission/25602/nolife/la-faute-a-l-algo/07-les-services-de-conciergerie-et-l-uberisation
 published: true
 comments: true
 ---

@@ -3,7 +3,6 @@ layout: episode
 title: "EP 9 : la surveillance prédictive"
 date: vendredi 4 mars 2016
 preview: static/preview-ep9.png
-noco: http://noco.tv/emission/31341/nolife/la-faute-a-l-algo/09-la-surveillance-predictive
 published: true
 comments: true
 ---

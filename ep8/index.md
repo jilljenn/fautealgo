@@ -3,7 +3,6 @@ layout: episode
 title: "EP 8 : l'évolution du travail"
 date: vendredi 19 février 2016
 preview: static/preview-ep8.png
-noco: http://noco.tv/emission/31002/nolife/la-faute-a-l-algo/08-l-evolution-du-travail
 published: true
 comments: true
 ---

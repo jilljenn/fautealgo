@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 gems:             [jekyll-paginate]
 
@@ -13,10 +13,11 @@ description:      "Qui se cache derrière l'algorithme ?<br /><a href=\"/eps/\">
 meta:             "2098. Les Algorithmes ont pris le contrôle de notre société. Mais comment en sommes-nous arrivés là ? Voici quelques vidéos du futur pour prendre conscience du rôle grandissant des algorithmes dans nos vies, à l'origine de notre déchéance."
 url:              http://madrobot.fr
 baseurl:          /
+atnl:             https://vimeo.com/showcase/10072326
 
 author:
   name:           'Jill-Jênn Vie'
-  url:            http://jill-jenn.net
+  url:            https://jill-jenn.net
   twitter:        jjvie
 
 paginate:         5

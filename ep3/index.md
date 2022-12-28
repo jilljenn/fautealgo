@@ -3,12 +3,11 @@ layout: episode
 title: "EP 3 : voitures sans conducteur"
 date: vendredi 20 novembre 2015
 preview: static/preview-ep3.png
-noco: http://noco.tv/emission/24160/nolife/la-faute-a-l-algo/03-voitures-sans-conducteurs
 published: true
 comments: true
 ---
 
-## Erreurs dans l'exploration spatiale
+## Erreurs dans l'exploration spatiale
 
 - [Vol 501 d'Ariane 5](https://fr.wikipedia.org/wiki/Vol_501_d'Ariane_5)
 - [Gemini 5 atterrit à 130km de son point prévu à cause d'une erreur](https://books.google.fr/books?id=c8PpO58QwowC&lpg=PA320&ots=PWrAGdu0WZ&dq=gemini%205%20computer%20error&hl=fr&pg=PA320#v=onepage&q&f=false), la rotation de la Terre ayant été mal spécifiée dans les calculs
@@ -19,7 +18,7 @@ comments: true
 - [Comment faire confiance à un compilateur ?](https://interstices.info/jcms/n_52365/comment-faire-confiance-a-un-compilateur)
 - [Difficile de tester Tetris](http://blog.jwhitham.org/2014/10/its-hard-to-test-software-even-simple.html), car il faut tester tous les cas, même les cas très rares
 
-## Voitures sans conducteur
+## Voitures sans conducteur
 
 - [Google self-driving car project](https://www.google.com/selfdrivingcar/)
 - Dilemme du Tramway : [Why self-driving cars must be programmed to kill](http://www.technologyreview.com/view/542626/why-self-driving-cars-must-be-programmed-to-kill/)

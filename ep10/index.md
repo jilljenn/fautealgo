@@ -3,7 +3,6 @@ layout: episode
 title: "EP 10 : le deep learning"
 date: vendredi 18 mars 2016
 preview: static/preview-ep10.png
-noco: http://noco.tv/emission/31668/nolife/la-faute-a-l-algo/10-le-deep-learning
 published: true
 comments: true
 ---

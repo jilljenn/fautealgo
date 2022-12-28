@@ -79,5 +79,5 @@ J'ai vu quelques noms de chercheurs qui profitent de l'engouement général pour
 - **Moritz Hardt** : auteur du post sur Medium [***How big data is unfair***](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de#.l2kf90u2a), organisateur du workshop à NIPS & ICML [***Fairness, Accountability and Transparency in Machine Learning***](http://www.fatml.org) et (tiens !) chercheur senior à Google.
 - **Nick Diakopoulos** : journaliste spécialiste du buzzword [**algorithmic accountability**](http://www.nickdiakopoulos.com/projects/algorithmic-accountability-reporting/), ayant publié dans Washington Post et Slate, ce qui en dit long sur le caractère scientifique de ses analyses. *(Zut, jusque-là j'avais pourtant réussi à rester neutre.)*
 
-<p class="message"><a href="/"><strong><em>La Faute à l'algo</em></strong></a> est une émission diffusée un vendredi sur deux à 19 h, dans 101 % sur la chaîne <a href="http://nolife-tv.com" target="_blank">Nolife</a>.<br />
+<p class="message"><a href="/"><strong><em>La Faute à l'algo</em></strong></a> est une émission diffusée un vendredi sur deux à 19 h, dans 101 % sur la chaîne Nolife.<br />
 <a href="/about/"><em>En savoir plus sur les auteurs.</em></a></p>

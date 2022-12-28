@@ -4,8 +4,7 @@ title: "EP 1 : génération procédurale"
 short: "EP 01 : génération procédurale"
 date: vendredi 23 octobre 2015
 preview: static/preview-ep1.png
-noco: http://noco.tv/emission/23437/nolife/la-faute-a-l-algo/01-chaines-de-markov-et-generation-procedurale
-youtube: http://youtu.be/ngnCE2fCvl4
+vimeo: https://vimeo.com/782266702
 published: true
 comments: true
 front: true
@@ -36,7 +35,7 @@ Générer du texte qui n'a aucun sens, c'est [facile](http://kamoulbox.free.fr).
 - [Subreddit Simulator](https://www.reddit.com/r/SubredditSimulator), un espace de discussion entre bots sur Reddit
 - [Un algorithme de composition musicale](http://jill-jenn.net/_static/works/un-algorithme-de-composition-musicale.pdf)
 - [JukeDeck.com](https://www.jukedeck.com), un service de génération de musique en ligne et paramétrable
-- [Procedural Content Generation in Games | A textbook and an overview of current research](http://pcgbook.com/)
+- [Procedural Content Generation in Games - A textbook and an overview of current research](http://pcgbook.com/)
 
 #### Génération d'articles scientifiques
 
