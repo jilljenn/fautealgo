@@ -4,6 +4,7 @@ title: "EP 2 : intelligence artificielle"
 short: "EP 02 : intelligence artificielle"
 date: vendredi 6 novembre 2015
 preview: static/preview-ep2.png
+vimeo: https://vimeo.com/showcase/10072326/video/782266980
 published: true
 comments: true
 front: true

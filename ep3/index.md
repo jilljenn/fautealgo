@@ -3,6 +3,7 @@ layout: episode
 title: "EP 3 : voitures sans conducteur"
 date: vendredi 20 novembre 2015
 preview: static/preview-ep3.png
+vimeo: https://vimeo.com/showcase/10072326/video/782267262
 published: true
 comments: true
 ---
